@@ -1,0 +1,1 @@
+export const factions_pipeline = (payload)=>{return {ok:true, type:'factions', payload};}

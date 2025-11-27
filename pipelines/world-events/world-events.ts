@@ -1,0 +1,1 @@
+export const world_events_pipeline = (payload)=>{return {ok:true, type:'world-events', payload};}

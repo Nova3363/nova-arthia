@@ -1,0 +1,1 @@
+export function godotWebhook(req,res){return res.json({ok:true,from:"godot"});}
