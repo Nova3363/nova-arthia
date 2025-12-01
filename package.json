@@ -1,0 +1,6 @@
+{
+  "name": "nova-arthia",
+  "private": true,
+  "workspaces": ["apps/api","apps/queue","apps/ui"],
+  "scripts": { "build":"echo root", "start":"echo root" }
+}

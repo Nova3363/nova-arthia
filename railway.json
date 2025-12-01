@@ -1,0 +1,5 @@
+{
+  "$schema":"https://railway.app/railway.schema.json",
+  "build":{ "root":"apps/api" },
+  "deploy":{ "startCommand":"sh start.sh" }
+}

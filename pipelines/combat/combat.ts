@@ -1,0 +1,1 @@
+export const combat_pipeline = (payload)=>{return {ok:true, type:'combat', payload};}

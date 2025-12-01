@@ -1,0 +1,1 @@
+export const world_agent=()=>true;
